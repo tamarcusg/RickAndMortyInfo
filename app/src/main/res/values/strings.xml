@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RickAndMortyInfo</string>
+    <string name="home_screen_title">Rick And Morty Characters</string>
+    <string name="search_bar_placeholder">Search</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="character_grid_image_description">%s, Image</string>
+    <string name="character_count_label">%d characters found</string>
+    <string name="detail_label_species">Species</string>
+    <string name="detail_label_status">Status</string>
+    <string name="detail_label_origin">Origin</string>
+    <string name="detail_label_type">Type</string>
+    <string name="detail_label_date_created">Date Created</string>
+</resources>
